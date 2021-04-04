@@ -1,7 +1,7 @@
 # react-native-api-managers
 easier to use expo apis with react native
 
-# notifications
+# send notifications
 
 # play sounds
 
